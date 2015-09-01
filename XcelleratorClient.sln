@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XcelleratorClient", "XcelleratorClient\XcelleratorClient.csproj", "{5C9B5EA2-5A2B-40AA-B546-69F023356862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XcelleratorClientTester", "XcelleratorClientTester\XcelleratorClientTester.csproj", "{B04E9255-FFA4-494C-96E9-7B538B9C6863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C9B5EA2-5A2B-40AA-B546-69F023356862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9B5EA2-5A2B-40AA-B546-69F023356862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9B5EA2-5A2B-40AA-B546-69F023356862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9B5EA2-5A2B-40AA-B546-69F023356862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04E9255-FFA4-494C-96E9-7B538B9C6863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04E9255-FFA4-494C-96E9-7B538B9C6863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04E9255-FFA4-494C-96E9-7B538B9C6863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04E9255-FFA4-494C-96E9-7B538B9C6863}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
